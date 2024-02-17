@@ -201,7 +201,7 @@
       </ParameterList>
 
       <ParameterList name="initial condition" type="ParameterList">
-        <Parameter name="hydrostatic water level [m]" type="double" value="2.0" />
+        <Parameter name="hydrostatic water level [m]" type="double" value="3.0" />
         <Parameter name="hydrostatic water density [kg m^-3]" type="double" value="1000.0" />
       </ParameterList>
 
@@ -282,7 +282,7 @@
             <ParameterList name="function" type="ParameterList">
               <ParameterList name="function-tabular" type="ParameterList">
                 <Parameter name="x values" type="Array(double)" value="{0.0,4320000.0}" />
-                <Parameter name="y values" type="Array(double)" value="{1e-06,0.0}" />
+                <Parameter name="y values" type="Array(double)" value="{1e-07,0.0}" />
                 <Parameter name="forms" type="Array(string)" value="{constant}" />
               </ParameterList>
             </ParameterList>
