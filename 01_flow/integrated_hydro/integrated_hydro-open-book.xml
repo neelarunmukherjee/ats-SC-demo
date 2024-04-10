@@ -106,7 +106,7 @@
   <ParameterList name="cycle driver" type="ParameterList">
     <Parameter name="start time" type="double" value="0.0" />
     <Parameter name="start time units" type="string" value="s" />
-    <Parameter name="end time" type="double" value="10.0" />
+    <Parameter name="end time" type="double" value="0.8" />
     <Parameter name="end time units" type="string" value="d" />
     <ParameterList name="PK tree" type="ParameterList">
       <ParameterList name="surface-subsurface coupler" type="ParameterList">
@@ -194,7 +194,7 @@
       </ParameterList>
 
       <ParameterList name="initial condition" type="ParameterList">
-        <Parameter name="hydrostatic water level [m]" type="double" value="3.0" />
+        <Parameter name="hydrostatic water level [m]" type="double" value="6.0" />
         <Parameter name="hydrostatic water density [kg m^-3]" type="double" value="1000.0" />
       </ParameterList>
 
@@ -235,6 +235,11 @@
       </ParameterList>
 
       <ParameterList name="boundary conditions" type="ParameterList">
+        <ParameterList name="zero gradient" type="ParameterList">
+          <ParameterList name="outlet" type="ParameterList">
+            <Parameter name="regions" type="Array(string)" value="{surface outlet}" />
+          </ParameterList>
+        </ParameterList>
       </ParameterList>
 
       <ParameterList name="initial condition" type="ParameterList">
@@ -518,7 +523,7 @@
       <Parameter name="file name base" type="string" value="ih_surface"/>
       <Parameter name="times start period stop" type="Array(double)" value="{0.0,0.02,-1.0}" />
       <Parameter name="times start period stop units" type="string" value="d" />
-      <Parameter name="visualize on 3D mesh" type="bool" value="false" />
+      <Parameter name="visualize on 3D mesh" type="bool" value="true" />
     </ParameterList>
   </ParameterList>
 </ParameterList>

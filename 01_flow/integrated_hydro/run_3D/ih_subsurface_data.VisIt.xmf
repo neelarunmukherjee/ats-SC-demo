@@ -1,0 +1,47 @@
+<Xdmf Version="2.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <Domain>
+    <Grid CollectionType="Temporal" GridType="Collection">
+      <xi:include href="ih_subsurface_data.h5.0.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.58.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.131.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.215.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.295.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.383.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.456.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.498.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.534.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.570.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.593.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.621.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.650.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.687.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.710.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.746.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.792.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.813.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.849.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.879.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.913.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.956.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1014.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1060.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1092.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1127.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1163.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1189.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1215.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1239.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1257.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1282.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1303.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1329.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1350.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1370.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1391.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1406.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1424.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1441.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+      <xi:include href="ih_subsurface_data.h5.1457.xmf" xpointer="xpointer(//Xdmf/Domain/Grid)"/>
+    </Grid>
+  </Domain>
+</Xdmf>
