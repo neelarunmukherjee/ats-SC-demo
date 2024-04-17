@@ -1,4 +1,4 @@
-# ATS Short Course
+# ATS Short Course (v-1.2)
 
 [![Docker](https://github.com/amanzi/ats-short-course/actions/workflows/docker-test.yml/badge.svg?branch=main)](https://github.com/amanzi/ats-short-course/actions/workflows/docker-test.yml)
 
